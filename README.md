@@ -1,6 +1,6 @@
-#Universidad de Sonora
+# Universidad de Sonora
 
-##Maestría en Ciencia de Datos
+## Maestría en Ciencia de Datos
 
 # Proyecto Análisis de vino tinto
 
